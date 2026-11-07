@@ -141,25 +141,6 @@ git push -u origin main
 | *(Tambahkan foto/screenshot sesi workshop)* | *(Tambahkan tangkapan layar praktik Git/GitHub)* |
 
 ---
-
-## ✅ Checklist Ketentuan & Rubrik Penilaian
-
-Sebelum mengumpulkan tautan repository ke website GULTIK/EXPECTIK, pastikan seluruh kriteria berikut telah terpenuhi:
-
-- [x] Repository berstatus **Public** (dapat diakses oleh siapa saja tanpa login/izin).
-- [x] File `README.md` memuat:
-  - [x] Nama lengkap peserta
-  - [x] Deskripsi singkat repository
-  - [x] Tujuan / kegunaan repository
-  - [x] Informasi singkat kegiatan workshop
-- [x] Dokumentasi kegiatan workshop memuat:
-  - [x] Topik / materi yang disampaikan
-  - [x] Catatan atau rangkuman materi
-  - [x] Poin-poin penting / wawasan baru
-- [x] Seluruh file terunggah dengan rapi di GitHub.
-- [x] Tautan repository telah disalin dan valid (mengarah ke akun sendiri, bukan orang lain).
-- [x] Dikumpulkan sebelum tenggat waktu: **Sabtu, 7 November 2026 Pukul 23.59 WIB**.
-
 ---
 
 <p align="center">
