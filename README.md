@@ -138,7 +138,7 @@ git push -u origin main
 
 | Dokumentasi Sesi Workshop | Dokumentasi Day 1 |
 | :---: | :---: |
-| <img width="900" height="1600" alt="WhatsApp Image 2026-11-07 at 18 07 49" src="https://github.com/user-attachments/assets/f504d3fd-1df4-4383-933f-662d397b2f7d" /> | <img width="3024" height="4032" alt="WhatsApp Image 2026-11-07 at 18 07 48" src="https://github.com/user-attachments/assets/ac40b8d9-4c7d-4585-b40e-7f1ee04c5da1" /> |
+| <img width="900" height="1600" alt="WhatsApp Image 2026-11-07 at 18 07 49" src="https://github.com/user-attachments/assets/f504d3fd-1df4-4383-933f-662d397b2f7d" /> | <img width="960" height="1280" alt="WhatsApp Image 2026-11-07 at 17 30 05" src="https://github.com/user-attachments/assets/eef74cf4-5261-4e9b-a77a-69d2a2acea90" /> |
 
 ---
 ---
